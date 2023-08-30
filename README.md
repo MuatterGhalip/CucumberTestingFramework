@@ -1,5 +1,5 @@
-# LEAPDevAssesmentTasks
-This is the repository for Leap Dev Assement Tasks.
+# CucumberTestingFramework
+This is the repository for some example of testing work I have done for a demo website
 Task 1 is a Excel File
 Task 2: 
 Git Clone to your local
